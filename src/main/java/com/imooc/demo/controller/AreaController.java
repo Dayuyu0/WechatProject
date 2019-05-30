@@ -20,7 +20,7 @@ public class AreaController {
     private AreaService areaService;
 
     /**
-     *查询所有信息逻辑处理
+     *查询所有信息的逻辑处理
      * @return HashMap
      */
     //映射URL路径，方法为GET
